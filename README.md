@@ -22,6 +22,6 @@ Avaliaremos, pelo menos, os seguintes pontos da sua entrega:
 
 Instruções de entrega:
 - Faça fork deste repositório em sua própria conta do GitHub.
-- A entrega do desafio se dá pelo envio de um email para maven@maven.com.br com o assunto "Desafio Maven - < SEU NOME >" e contendo link para seu repositório de acesso público com a implementação realizada.
+- A entrega do desafio se dá pelo envio de um email para vagas-desenv@maven.com.br com o assunto "Desafio Maven - < SEU NOME >" e contendo link para seu repositório de acesso público com a implementação realizada.
 
 Informações sobre a API a ser consultada: https://developer.marvel.com/docs
