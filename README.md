@@ -30,9 +30,14 @@ Avaliaremos, pelo menos, os seguintes pontos da sua entrega:
 - documentação interna (comentários no código)
 - criatividade
 
-Instruções de entrega:
+Instruções de desenvolvimento e entrega:
 
+- Utilize HTML5 e/ou JavaScript e/ou Java, é nosso mundo :-)
 - Faça fork deste repositório em sua própria conta do GitHub.
-- A entrega do desafio se dá pelo envio de um email para vagas-desenv@maven.com.br com o assunto "Desafio Maven - < SEU NOME >" e contendo link para seu repositório de acesso público com a implementação realizada.
+- A entrega do desafio se dá pelo envio de um email para vagas-desenv@maven.com.br com as informaçes abaixo:
+ - **Assunto:** "Desafio Maven - < SEU NOME >"
+ - **Conteúdo:**
+ - link para o seu repositório de acesso público com a implementação realizada
+ - instruções passo-a-passo para executar e testar a aplicação em uma máquina local de desenvolvedor
 
 Informações sobre a API a ser consultada: http://www.omdbapi.com/
