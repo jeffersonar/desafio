@@ -1,17 +1,27 @@
-# Desafio Frontend 2018
+# Desafio Frontend 2019
 
-A Marvel possui uma API pública de consulta de informações sobre seus personagens e suas comics. O objetivo é criar uma aplicação web responsiva que permita buscar informações de um personagem através do nome ou do id que ele possui nesta base.
+A API do OMDb é um serviço RESTful para obter informações sobre filmes. Todo conteúdo e imagens no site são contribuídos e mantidos pelos usuários. O objetivo é criar uma aplicação web responsiva que permita buscar informações de um filme através de alguma palavra do título e navegar pelos resultados.
 
-O resultado desta busca deve contar pelo menos as seguintes informações:
-- Nome do personagem
-- ID do personagem na base da Marvel
-- Imagem do personagem
-- Descrição do personagem
-- Um conjunto de algumas comics em que o personagem aparece com a capa de cada comic, cada item pode ser clicado direcionando para um link da própria Marvel com mais informações sobre esta comic.
+O resultado da busca deve ser um conjunto de filmes que satisfaz a busca e, para cada filme, devem ser exibidas as seguintes informações:
 
-Estas são as informações mínimas, mas fique à vontade para, de acordo com o objetivo de explorar/consultar informações sobre um determinado personagem, acrescentares o que considerar enriquecer a experiência do usuário.
+- Título do filme
+- Ano de lançamento
+- Imagem do pôster
+
+Deve ser possível entrar em cada item do resultado para exibir mais detalhes sobre cada filme. Detalhes mínimos a serem exibidos:
+
+- Título do filme
+- Ano de lançamento
+- Diretor
+- País
+- Tempo de duração
+- Descrição do enredo (plot)
+- Imagem do Pôster
+
+Estas são as informações mínimas, mas fique à vontade para, de acordo com o objetivo de explorar/consultar informações sobre cada filme, acrescentares o que considerar enriquecer a experiência do usuário.
 
 Avaliaremos, pelo menos, os seguintes pontos da sua entrega:
+
 - UX
 - responsividade (mobile e desktop)
 - originalidade
@@ -21,7 +31,8 @@ Avaliaremos, pelo menos, os seguintes pontos da sua entrega:
 - criatividade
 
 Instruções de entrega:
+
 - Faça fork deste repositório em sua própria conta do GitHub.
 - A entrega do desafio se dá pelo envio de um email para vagas-desenv@maven.com.br com o assunto "Desafio Maven - < SEU NOME >" e contendo link para seu repositório de acesso público com a implementação realizada.
 
-Informações sobre a API a ser consultada: https://developer.marvel.com/docs
+Informações sobre a API a ser consultada: http://www.omdbapi.com/
